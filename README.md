@@ -7,7 +7,7 @@ Greetings Child.
  <img src="https://komarev.com/ghpvc/?username=cxnvicted&color=151515">
      <p align="center">
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1086326370197581975.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/1084628608963854387.png"/>
 </p>
 <p align="center">
 Working on discord utillity tools

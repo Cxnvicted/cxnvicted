@@ -4,7 +4,7 @@
     <p align="center">
 Greetings Child.
     <p align="center">
- <img src="https://komarev.com/ghpvc/?username=cxnvicted&color=151515">
+ <img src="https://komarev.com/ghpvc/?username=convsdemise&color=151515">
      <p align="center">
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1084628608963854387.png"/>
